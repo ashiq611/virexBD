@@ -14,6 +14,7 @@ import afrahim from "../../assets/team/Afrahim.jpg";
 import mushfiq from "../../assets/team/mushfiq.jpg";
 import munna from "../../assets/team/munna.jpg";
 import sayem from "../../assets/team/sayem.jpg";
+import shuvo from "../../assets/team/sadman.jpg";
 
 const About = () => {
   return (
@@ -56,28 +57,46 @@ const About = () => {
             </h1>
             <img className="rounded-full" src={manIcon} alt="" />
             <button className=" btn text-sm font-medium rounded-lg  p-5 bg-[#92E8FB]">
-              MD. Khan
+              Atiqur Rahman Polash
             </button>
           </div>
           <div className="right flex-1">
-            <h1 className="text-5xl font-semibold text-center">
-              Some information about the founder
+            <h1 className="text-lg text-white m-5 font-semibold text-center">
+              Having experience with government projects indicates that Atiqur
+              Rahman Polash has worked on software development projects
+              commissioned or funded by government agencies or departments.
+              These projects typically have specific requirements, regulations,
+              and security considerations that differ from those in the private
+              sector. Experience in government projects suggests that Atiqur
+              Rahman Polash has navigated bureaucratic processes, adhered to
+              governmental standards and guidelines, and possibly collaborated
+              with various stakeholders within the government. This experience
+              can be valuable in understanding how to work effectively within
+              the parameters of government contracts and regulations.
             </h1>
           </div>
         </div>
         <div className="container lg:flex flex-col lg:flex-row items-center gap-9 hidden ">
           <div className="right flex-1">
-            <h1 className="text-5xl font-semibold text-center">
-              Some information about the founder
+            <h1 className="text-lg text-white m-5 font-semibold text-center">
+              Md. Abu Hena Chowdhury is a dynamic professional with diverse
+              expertise. As CEO and Managing Director of VirexBD Ltd. and CEO of
+              Kohinoor Enterprise, he leads strategic initiatives and
+              operational management. Additionally, he founded Shuvo Motors,
+              demonstrating entrepreneurial acumen. With a background in English
+              (B.A. Honors), he brings unique perspectives to his roles. Beyond
+              business, he serves as a Financial Associate at MetLife and as a
+              Pharmacist and CEO of Tahim Medical Hall, showcasing versatility
+              across industries.
             </h1>
           </div>
           <div className="right flex-1 items-center justify-center grid gap-5 p-5 bg-[#0C1740] ">
             <h1 className="text-center text-[#FF7171] font-semibold text-2xl">
-              Co-Founder
+              CEO
             </h1>
-            <img className="rounded-full" src={manIcon} alt="" />
+            <img className="rounded-full aspect-auto" src={shuvo} alt="" />
             <button className=" btn text-sm font-medium rounded-lg  p-5 bg-[#92E8FB]">
-              MD. Khan
+              Md. Abu Hena Chowdhury
             </button>
           </div>
         </div>

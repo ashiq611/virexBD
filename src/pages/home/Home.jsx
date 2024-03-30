@@ -308,6 +308,7 @@ const Home = () => {
                     </div>
                   </div>
                 </div>
+                
               </div>
             </div>
             <div>
@@ -323,28 +324,28 @@ const Home = () => {
                 </div>
                 <div className="w-3/12">
                   <div className="w-11/12 bg-purple1 text-black">
-                    <img className="w-full h-56" src={man} />
+                    <img className="w-full h-56" src={pantha} />
                     <div className="py-1 text-center w-full font-poppins">
-                      <p className="font-semibold">Md. Karim Haque</p>
-                      <p>President</p>
+                      <p className="font-semibold">Pantha Acharjee</p>
+                      <p>MERN Stack Developer</p>
                     </div>
                   </div>
                 </div>
                 <div className="w-3/12">
                   <div className="w-11/12 bg-purple1 text-black">
-                    <img className="w-full h-56" src={man} />
+                    <img className="w-full h-56" src={noman} />
                     <div className="py-1 text-center w-full font-poppins">
-                      <p className="font-semibold">Md. Karim Haque</p>
-                      <p>President</p>
+                      <p className="font-semibold">Abdullah Al Noman</p>
+                      <p>Associate software engineer, QA</p>
                     </div>
                   </div>
                 </div>
                 <div className="w-3/12">
                   <div className="w-11/12 bg-purple1 text-black">
-                    <img className="w-full h-56" src={man} />
+                    <img className="w-full h-56" src={Samiul} />
                     <div className="py-1 text-center w-full font-poppins">
-                      <p className="font-semibold">Md. Karim Haque</p>
-                      <p>President</p>
+                      <p className="font-semibold"> Md. Samiul Hafiz</p>
+                      <p>Graphics Designer</p>
                     </div>
                   </div>
                 </div>

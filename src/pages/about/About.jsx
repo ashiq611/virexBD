@@ -85,9 +85,8 @@ const About = () => {
               operational management. Additionally, he founded Shuvo Motors,
               demonstrating entrepreneurial acumen. With a background in English
               (B.A. Honors), he brings unique perspectives to his roles. Beyond
-              business, he serves as a Financial Associate at MetLife and as a
-              Pharmacist and CEO of Tahim Medical Hall, showcasing versatility
-              across industries.
+              business, he serves as a Financial Associate at MetLife and CEO of
+              Tahim Medical Hall, showcasing versatility across industries.
             </h1>
           </div>
           <div className="right flex-1 items-center justify-center grid gap-5 p-5 bg-[#0C1740] ">
@@ -265,7 +264,7 @@ const About = () => {
           </div>
 
           <div className="lg:relative flex my-5 h-96 items-center">
-            <div className="absolute h-72 w-56  items-center bg-white border border-gray-200 rounded-xl shadow dark:bg-gray-800 dark:border-gray-700 flex flex-col">
+            <div className="absolute h-72 w-56 top-0  items-center bg-white border border-gray-200 rounded-xl shadow dark:bg-gray-800 dark:border-gray-700 flex flex-col">
               <img
                 className="rounded-t-xl h-auto flex-grow"
                 src={sabrina}

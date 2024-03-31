@@ -100,8 +100,7 @@ const MobileAbout = () => {
             management. Additionally, he founded Shuvo Motors, demonstrating
             entrepreneurial acumen. With a background in English (B.A. Honors),
             he brings unique perspectives to his roles. Beyond business, he
-            serves as a Financial Associate at MetLife and as a Pharmacist and
-            CEO of Tahim Medical Hall, showcasing versatility across industries.
+            serves as a Financial Associate at MetLife and CEO of Tahim Medical Hall, showcasing versatility across industries.
           </h1>
         </div>
       </div>
